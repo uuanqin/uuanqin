@@ -3,7 +3,9 @@
 - 📫 wuanqin@mail.ustc.edu.cn
 - 🔗 My blog: [uuanqin.top](https://blog.uuanqin.top/)
 
-![uuanqin's GitHub stats](https://github-readme-stats.uuanqin.top/api?username=uuanqin)
+[![img](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.uuanqin.top%2Fnpm_stat_author_total.json&query=%24.total&suffix=%2Ftotal&label=downloads&color=cb3837&logo=npm)](https://www.npmjs.com/~wuanqin)
+
+<img src="https://github-readme-stats.uuanqin.top/api?username=uuanqin" alt="uuanqin's GitHub stats" height="180" align="right" />
 
 
 #### Latest Blog Posts
@@ -16,7 +18,7 @@
 - [将不蒜子中的数据迁移到 Waline](https://blog.uuanqin.top/p/e400f664/)
 <!-- BLOG-POST-LIST:END -->
 
-
+[![rss](https://img.shields.io/badge/feed-brightgreen?logo=rss&logoColor=ffffff&color=ffa500)](https://blog.uuanqin.top/atom.xml)
 
 <!---
 uuanqin/uuanqin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
