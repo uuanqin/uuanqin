@@ -5,6 +5,7 @@ on:
   schedule:
     # Runs every hour, on the hour
     - cron: '0 16 * * *'
+  workflow_dispatch: # 允许你通过GitHub UI或API手动触发workflow
 
 jobs:
   update-readme-with-blog:
