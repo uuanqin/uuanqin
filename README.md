@@ -19,6 +19,8 @@
 <!-- BLOG-POST-LIST:END -->
 
 [![rss](https://img.shields.io/badge/feed-brightgreen?logo=rss&logoColor=ffffff&color=ffa500)](https://blog.uuanqin.top/atom.xml)
+[![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.follow.is%2Ffeeds%3Fid%3D57360050739377168&query=%24.data.subscriptionCount&suffix=%20subs&logo=rss&label=Follow&color=ff5c00)](https://app.follow.is/share/feeds/57360050739377168)
+
 
 <!---
 uuanqin/uuanqin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
