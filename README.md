@@ -14,7 +14,7 @@
 - [国外顶级域名的注册及向注册局提交身份验证的方法](https://blog.uuanqin.top/p/22db7c91/)
 - [【刷题日记】LogTrick 方法解决子数组最值或计数问题](https://blog.uuanqin.top/p/6aba4215/)
 - [【刷题日记】为什么二分查找总是写不对？](https://blog.uuanqin.top/p/817735b/)
-- [【刷题日记】Java 快速热身——排序](https://blog.uuanqin.top/p/72156dd2/)
+- [【语言热身】Java 中的排序](https://blog.uuanqin.top/p/72156dd2/)
 - [向百度站长申请索引配额](https://blog.uuanqin.top/p/a31da428/)
 <!-- BLOG-POST-LIST:END -->
 
