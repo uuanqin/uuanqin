@@ -11,11 +11,11 @@
 #### Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [【语言热身】Groovy 基础](https://blog.uuanqin.top/p/22279b30/)
 - [【刷题日记】背包问题](https://blog.uuanqin.top/p/29e8dd2d/)
 - [国外顶级域名的注册及向注册局提交身份验证的方法](https://blog.uuanqin.top/p/22db7c91/)
 - [【刷题日记】LogTrick 方法解决子数组最值或计数问题](https://blog.uuanqin.top/p/6aba4215/)
 - [【刷题日记】为什么二分查找总是写不对？](https://blog.uuanqin.top/p/817735b/)
-- [【语言热身】Java 中的排序](https://blog.uuanqin.top/p/72156dd2/)
 <!-- BLOG-POST-LIST:END -->
 
 [![rss](https://img.shields.io/badge/feed-brightgreen?logo=rss&logoColor=ffffff&color=ffa500)](https://blog.uuanqin.top/atom.xml)
