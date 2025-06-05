@@ -12,9 +12,9 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [差分数组](https://blog.uuanqin.top/p/f4bb8efc/)
-- [【刷题日记】快速幂算法](https://blog.uuanqin.top/p/9e8183d2/)
+- [快速幂算法](https://blog.uuanqin.top/p/9e8183d2/)
 - [【语言热身】Groovy 基础](https://blog.uuanqin.top/p/22279b30/)
-- [【刷题日记】背包问题](https://blog.uuanqin.top/p/29e8dd2d/)
+- [背包问题](https://blog.uuanqin.top/p/29e8dd2d/)
 - [国外顶级域名的注册及向注册局提交身份验证的方法](https://blog.uuanqin.top/p/22db7c91/)
 <!-- BLOG-POST-LIST:END -->
 
