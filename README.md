@@ -11,11 +11,11 @@
 #### Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [最短路径算法](https://blog.uuanqin.top/p/9df73d67/)
 - [差分数组](https://blog.uuanqin.top/p/f4bb8efc/)
 - [快速幂算法](https://blog.uuanqin.top/p/9e8183d2/)
 - [【语言热身】Groovy 基础](https://blog.uuanqin.top/p/22279b30/)
 - [背包问题](https://blog.uuanqin.top/p/29e8dd2d/)
-- [国外顶级域名的注册及向注册局提交身份验证的方法](https://blog.uuanqin.top/p/22db7c91/)
 <!-- BLOG-POST-LIST:END -->
 
 [![rss](https://img.shields.io/badge/feed-brightgreen?logo=rss&logoColor=ffffff&color=ffa500)](https://blog.uuanqin.top/atom.xml)
