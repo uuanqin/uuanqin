@@ -11,11 +11,11 @@
 #### Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [工厂模式（简单工厂、静态工厂、抽象工厂）](https://blog.uuanqin.top/p/3a9f48af/)
 - [单例模式一文通](https://blog.uuanqin.top/p/f7f6f747/)
 - [最短路径算法](https://blog.uuanqin.top/p/9df73d67/)
 - [差分数组](https://blog.uuanqin.top/p/f4bb8efc/)
 - [快速幂算法](https://blog.uuanqin.top/p/9e8183d2/)
-- [Groovy 基础](https://blog.uuanqin.top/p/22279b30/)
 <!-- BLOG-POST-LIST:END -->
 
 [![rss](https://img.shields.io/badge/feed-brightgreen?logo=rss&logoColor=ffffff&color=ffa500)](https://blog.uuanqin.top/atom.xml)
