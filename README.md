@@ -11,11 +11,11 @@
 #### Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [建造者模式的两种不同实现方式](https://blog.uuanqin.top/p/5b8a11ae/)
 - [这里曾是苏州古城最大的田野——南园](https://blog.uuanqin.top/p/77a4685d/)
 - [我的 AI 摘要方案：Vercel+Redis+Hexo API+Spark Lite](https://blog.uuanqin.top/p/75efe9f3/)
 - [UML 中类图与类的关系](https://blog.uuanqin.top/p/25e0b352/)
 - [工厂模式（简单工厂、静态工厂、抽象工厂）](https://blog.uuanqin.top/p/3a9f48af/)
-- [单例模式一文通](https://blog.uuanqin.top/p/f7f6f747/)
 <!-- BLOG-POST-LIST:END -->
 
 [![rss](https://img.shields.io/badge/feed-brightgreen?logo=rss&logoColor=ffffff&color=ffa500)](https://blog.uuanqin.top/atom.xml)
