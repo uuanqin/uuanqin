@@ -11,11 +11,11 @@
 #### Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [责任链模式——推卸责任](https://blog.uuanqin.top/p/c4f5b558/)
 - [原型模式——通过复制生成实例](https://blog.uuanqin.top/p/96a98120/)
 - [建造者模式的两种不同实现方式](https://blog.uuanqin.top/p/5b8a11ae/)
 - [这里曾是苏州古城最大的田野——南园](https://blog.uuanqin.top/p/77a4685d/)
 - [我的 AI 摘要方案：Vercel+Redis+Hexo API+Spark Lite](https://blog.uuanqin.top/p/75efe9f3/)
-- [UML 中类图与类的关系](https://blog.uuanqin.top/p/25e0b352/)
 <!-- BLOG-POST-LIST:END -->
 
 [![rss](https://img.shields.io/badge/feed-brightgreen?logo=rss&logoColor=ffffff&color=ffa500)](https://blog.uuanqin.top/atom.xml)
