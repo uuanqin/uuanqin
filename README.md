@@ -11,11 +11,11 @@
 #### Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [模板方法模式：命题作文](https://blog.uuanqin.top/p/e165ad61/)
 - [Java 8 中的函数式编程](https://blog.uuanqin.top/p/2c5c0eb2/)
 - [代理模式：爱因斯坦和他的司机](https://blog.uuanqin.top/p/ba3851cf/)
 - [责任链模式：击鼓传花](https://blog.uuanqin.top/p/c4f5b558/)
 - [原型模式：学会克隆](https://blog.uuanqin.top/p/96a98120/)
-- [建造者模式的两种不同实现方式](https://blog.uuanqin.top/p/5b8a11ae/)
 <!-- BLOG-POST-LIST:END -->
 
 [![rss](https://img.shields.io/badge/feed-brightgreen?logo=rss&logoColor=ffffff&color=ffa500)](https://blog.uuanqin.top/atom.xml)
