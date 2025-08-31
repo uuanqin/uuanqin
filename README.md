@@ -11,11 +11,11 @@
 #### Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Java 不可变类与不变模式](https://blog.uuanqin.top/p/e0b8ae0b/)
 - [EventBus 框架的简易实现](https://blog.uuanqin.top/p/2c61e522/)
 - [观察者模式：订阅与推送](https://blog.uuanqin.top/p/d1e2262f/)
-- [模板方法模式：命题作文](https://blog.uuanqin.top/p/e165ad61/)
-- [Java 8 中的函数式编程](https://blog.uuanqin.top/p/2c5c0eb2/)
-- [代理模式：爱因斯坦和他的司机](https://blog.uuanqin.top/p/ba3851cf/)
+- [模板方法模式与回调](https://blog.uuanqin.top/p/e165ad61/)
+- [函数式编程与Java 中的 Lambda 表达式](https://blog.uuanqin.top/p/2c5c0eb2/)
 <!-- BLOG-POST-LIST:END -->
 
 [![rss](https://img.shields.io/badge/feed-brightgreen?logo=rss&logoColor=ffffff&color=ffa500)](https://blog.uuanqin.top/atom.xml)
