@@ -11,11 +11,11 @@
 #### Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [关于海量数据的若干问题](https://blog.uuanqin.top/p/4fdbc02c/)
+- [访问者模式填补单分派语言的缺陷](https://blog.uuanqin.top/p/b6ca7c41/)
 - [Java 不可变类与不变模式](https://blog.uuanqin.top/p/e0b8ae0b/)
 - [EventBus 框架的简易实现](https://blog.uuanqin.top/p/2c61e522/)
 - [观察者模式：订阅与推送](https://blog.uuanqin.top/p/d1e2262f/)
-- [模板方法模式与回调](https://blog.uuanqin.top/p/e165ad61/)
-- [函数式编程与Java 中的 Lambda 表达式](https://blog.uuanqin.top/p/2c5c0eb2/)
 <!-- BLOG-POST-LIST:END -->
 
 [![rss](https://img.shields.io/badge/feed-brightgreen?logo=rss&logoColor=ffffff&color=ffa500)](https://blog.uuanqin.top/atom.xml)
