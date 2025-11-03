@@ -11,11 +11,11 @@
 #### Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [一起撸串（字符串）](https://blog.uuanqin.top/p/6c1e0ffd/)
 - [树状数组上手了就十分简单](https://blog.uuanqin.top/p/47fd7a85/)
 - [缓存置换算法的实现与 Java 中相关的数据结构](https://blog.uuanqin.top/p/270917b1/)
 - [关于海量数据的若干问题](https://blog.uuanqin.top/p/4fdbc02c/)
 - [访问者模式填补单分派语言的缺陷](https://blog.uuanqin.top/p/b6ca7c41/)
-- [Java 不可变类与不变模式](https://blog.uuanqin.top/p/e0b8ae0b/)
 <!-- BLOG-POST-LIST:END -->
 
 [![rss](https://img.shields.io/badge/feed-brightgreen?logo=rss&logoColor=ffffff&color=ffa500)](https://blog.uuanqin.top/atom.xml)
