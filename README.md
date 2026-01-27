@@ -11,7 +11,7 @@
 #### Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Prompt 编写手册](https://blog.uuanqin.top/p/d1b29bd4/)
+- [Prompt Engineering 速查手册](https://blog.uuanqin.top/p/d1b29bd4/)
 - [2025 WePlay 上海两日游](https://blog.uuanqin.top/p/11d14c50/)
 - [和随机数生成相关的题目](https://blog.uuanqin.top/p/7ad89c4d/)
 - [一起撸串（字符串）](https://blog.uuanqin.top/p/6c1e0ffd/)
