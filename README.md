@@ -11,11 +11,11 @@
 #### Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Spring AI 中使用 PGVector 实现向量存储](https://blog.uuanqin.top/p/f3908a2e/)
 - [Prompt Engineering 速查手册](https://blog.uuanqin.top/p/d1b29bd4/)
 - [2025 WePlay 上海两日游](https://blog.uuanqin.top/p/11d14c50/)
 - [和随机数生成相关的题目](https://blog.uuanqin.top/p/7ad89c4d/)
 - [一起撸串（字符串）](https://blog.uuanqin.top/p/6c1e0ffd/)
-- [树状数组上手了就十分简单](https://blog.uuanqin.top/p/47fd7a85/)
 <!-- BLOG-POST-LIST:END -->
 
 [![rss](https://img.shields.io/badge/feed-brightgreen?logo=rss&logoColor=ffffff&color=ffa500)](https://blog.uuanqin.top/atom.xml)
