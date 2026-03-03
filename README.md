@@ -12,10 +12,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Hexo 动态加载配置（钩子函数）](https://blog.uuanqin.top/p/3ab36661/)
+- [VSCode 中的配置](https://blog.uuanqin.top/p/58e69503/)
 - [设计原则](https://blog.uuanqin.top/p/a151c9f2/)
 - [Spring AI 中使用 PGVector 实现向量存储](https://blog.uuanqin.top/p/f3908a2e/)
 - [Prompt Engineering 速查手册](https://blog.uuanqin.top/p/d1b29bd4/)
-- [2025 WePlay 上海两日游](https://blog.uuanqin.top/p/11d14c50/)
 <!-- BLOG-POST-LIST:END -->
 
 [![rss](https://img.shields.io/badge/feed-brightgreen?logo=rss&logoColor=ffffff&color=ffa500)](https://blog.uuanqin.top/atom.xml)
