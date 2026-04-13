@@ -11,11 +11,11 @@
 #### Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Hexo-Butterfly 主题 Preloader 加载页定制](https://blog.uuanqin.top/p/85371005/)
 - [Keycloak 的部署以及 Hexo-Butterfly 网页应用的接入](https://blog.uuanqin.top/p/131c2726/)
 - [随机访问文章的实现（Sitemap+本地缓存优化）](https://blog.uuanqin.top/p/717b7000/)
 - [Authentik 的部署记录](https://blog.uuanqin.top/p/7146cec9/)
 - [Waline 自建 Auth 认证](https://blog.uuanqin.top/p/c7d4d021/)
-- [记一次行李托运理赔流程（南航）](https://blog.uuanqin.top/p/2fa44e03/)
 <!-- BLOG-POST-LIST:END -->
 
 [![rss](https://img.shields.io/badge/feed-brightgreen?logo=rss&logoColor=ffffff&color=ffa500)](https://blog.uuanqin.top/atom.xml)
