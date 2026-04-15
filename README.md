@@ -11,11 +11,11 @@
 #### Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [试试用代码块在 Hexo 中插入实况照片](https://blog.uuanqin.top/p/da4ac563/)
+- [动态图片测试](https://blog.uuanqin.top/p/6338f82f/)
 - [Hexo-Butterfly 主题 Preloader 加载页定制](https://blog.uuanqin.top/p/85371005/)
 - [Keycloak 的部署以及 Hexo-Butterfly 网页应用的接入](https://blog.uuanqin.top/p/131c2726/)
 - [随机访问文章的实现（Sitemap+本地缓存优化）](https://blog.uuanqin.top/p/717b7000/)
-- [Authentik 的部署记录](https://blog.uuanqin.top/p/7146cec9/)
-- [Waline 自建 Auth 认证](https://blog.uuanqin.top/p/c7d4d021/)
 <!-- BLOG-POST-LIST:END -->
 
 [![rss](https://img.shields.io/badge/feed-brightgreen?logo=rss&logoColor=ffffff&color=ffa500)](https://blog.uuanqin.top/atom.xml)
