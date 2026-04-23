@@ -11,7 +11,7 @@
 #### Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Keycloak 配合下实现博客文章的受限访问](https://blog.uuanqin.top/p/9d81ea9f/)
+- [通过与 Keycloak 配合实现博客文章的受限访问功能](https://blog.uuanqin.top/p/9d81ea9f/)
 - [试试用代码块在 Hexo 中插入实况照片](https://blog.uuanqin.top/p/da4ac563/)
 - [动态图片测试](https://blog.uuanqin.top/p/6338f82f/)
 - [Hexo-Butterfly 主题 Preloader 加载页定制](https://blog.uuanqin.top/p/85371005/)
