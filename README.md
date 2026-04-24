@@ -11,11 +11,11 @@
 #### Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [hexo-filter-titlebased-link：构建你的数字花园](https://blog.uuanqin.top/p/9c61131/)
+- [Vercel 应用实践学习](https://blog.uuanqin.top/p/11ce9d57/)
 - [通过与 Keycloak 配合实现博客文章的受限访问功能](https://blog.uuanqin.top/p/9d81ea9f/)
-- [试试用代码块在 Hexo 中插入实况照片](https://blog.uuanqin.top/p/da4ac563/)
-- [动态图片测试](https://blog.uuanqin.top/p/6338f82f/)
-- [Hexo-Butterfly 主题 Preloader 加载页定制](https://blog.uuanqin.top/p/85371005/)
-- [Keycloak 的部署以及 Hexo-Butterfly 网页应用的接入](https://blog.uuanqin.top/p/131c2726/)
+- [非公开的文章 Soft Mode](https://blog.uuanqin.top/p/6472cf77/)
+- [非公开的文章 Strict Mode](https://blog.uuanqin.top/p/cb840d58/)
 <!-- BLOG-POST-LIST:END -->
 
 [![rss](https://img.shields.io/badge/feed-brightgreen?logo=rss&logoColor=ffffff&color=ffa500)](https://blog.uuanqin.top/atom.xml)
