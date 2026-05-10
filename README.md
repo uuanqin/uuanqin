@@ -11,11 +11,11 @@
 #### Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [把博客发布交给 GitHub Actions](https://blog.uuanqin.top/p/6be57bc5/)
+- [省外居民身份证的补换领（苏州）](https://blog.uuanqin.top/p/bddedde3/)
 - [hexo-filter-titlebased-link：构建你的数字花园](https://blog.uuanqin.top/p/9c61131/)
 - [Vercel 应用实践学习](https://blog.uuanqin.top/p/11ce9d57/)
 - [通过与 Keycloak 配合实现博客文章的受限访问功能](https://blog.uuanqin.top/p/9d81ea9f/)
-- [非公开的文章 Soft Mode](https://blog.uuanqin.top/p/6472cf77/)
-- [非公开的文章 Strict Mode](https://blog.uuanqin.top/p/cb840d58/)
 <!-- BLOG-POST-LIST:END -->
 
 [![rss](https://img.shields.io/badge/feed-brightgreen?logo=rss&logoColor=ffffff&color=ffa500)](https://blog.uuanqin.top/atom.xml)
