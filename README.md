@@ -11,11 +11,11 @@
 #### Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [小球称重问题](https://blog.uuanqin.top/p/83e94555/)
+- [蓝色的结构色](https://blog.uuanqin.top/p/1a18533a/)
+- [病毒是不是生物？](https://blog.uuanqin.top/p/e65d5d53/)
 - [把博客发布交给 GitHub Actions](https://blog.uuanqin.top/p/6be57bc5/)
 - [省外居民身份证的补换领（苏州）](https://blog.uuanqin.top/p/bddedde3/)
-- [hexo-filter-titlebased-link：构建你的数字花园](https://blog.uuanqin.top/p/9c61131/)
-- [Vercel 应用实践学习](https://blog.uuanqin.top/p/11ce9d57/)
-- [通过与 Keycloak 配合实现博客文章的受限访问功能](https://blog.uuanqin.top/p/9d81ea9f/)
 <!-- BLOG-POST-LIST:END -->
 
 [![rss](https://img.shields.io/badge/feed-brightgreen?logo=rss&logoColor=ffffff&color=ffa500)](https://blog.uuanqin.top/atom.xml)
