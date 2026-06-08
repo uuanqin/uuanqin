@@ -11,7 +11,7 @@
 #### Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [小球称重问题](https://blog.uuanqin.top/p/83e94555/)
+- [小球称重问题及其引申的思考](https://blog.uuanqin.top/p/83e94555/)
 - [蓝色的结构色](https://blog.uuanqin.top/p/1a18533a/)
 - [病毒是不是生物？](https://blog.uuanqin.top/p/e65d5d53/)
 - [把博客发布交给 GitHub Actions](https://blog.uuanqin.top/p/6be57bc5/)
